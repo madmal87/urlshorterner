@@ -1,6 +1,7 @@
 const urlMap = {
-    '1': 'https://www.example.com/long-url-1',
-    '2': 'https://www.example.com/long-url-2',
+    '1': 'https://www.facebook.com/share/p/1YuEQD1KDw/',
+    '2': 'https://www.facebook.com/share/p/1YuEQD1KDw/',
+    '3': 'https://library.uitm.edu.my/news/1842-majlis-iftar-bersama-perpustakaan-tun-dr-ismail',
     // Add more mappings as needed
 };
 
