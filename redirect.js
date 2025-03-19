@@ -1,6 +1,6 @@
 const urlMap = {
     '1': 'https://www.facebook.com/share/p/1YuEQD1KDw/',
-    '2': 'https://another-url.com/page',
+    '2': 'https://www.facebook.com/share/p/1YuEQD1KDw/',
     // Add more mappings as needed
 };
 
