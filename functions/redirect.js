@@ -1,14 +1,11 @@
 const urlMap = {
-    // Add more mappings as needed
-};
-
-
-const urlMap = {
-  
-    // Add more mappings as needed
-
-
-
+    'jombaca': 'https://www.facebook.com/share/p/1YuEQD1KDw/',
+    'ptdi': 'https://library.uitm.edu.my/news/1842-majlis-iftar-bersama-perpustakaan-tun-dr-ismail',
+    'ppd': 'https://library.uitm.edu.my/news/1840-perbincangan-program-khidmat-komuniti-bersama-pejabat-pendidikan-daerah-segamat',
+    'ppd2': 'https://library.uitm.edu.my/news/1840-perbincangan-program-khidmat-komuniti-bersama-pejabat-pendidikan-daerah-segamat',
+    'libaturus': 'https://library.uitm.edu.my/news/1832-sesi-libat-urus-pengurusan-rekod-arkib-bersama-perpustakaan-tun-dr-ismail',
+    'bacalah': 'https://library.uitm.edu.my/budayailmu/?p=2440',
+    'ittest': 'https://johor.uitm.edu.my/index.php?option=com_sppagebuilder&view=page&id=167'
 };
 
 exports.handler = async (event) => {
