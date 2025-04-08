@@ -14,6 +14,7 @@ exports.handler = async (event) => {
         'ihyaramadanpg': 'https://www.facebook.com/share/p/18y4dCTLeG/',
         'tap12025': 'https://docs.google.com/presentation/d/16vX0y6JCtrKzKy8EkAcrTNlcKcnr2bIi/edit?usp=sharing&ouid=102746423464810943993&rtpof=true&sd=true',
         'swotptdi': 'https://drive.google.com/file/d/1A9q2nUeG-vEkv58fjpiJpSs8mPupsVXb/view?usp=drive_link',
+        'slot1': 'https://www.canva.com/design/DAGj8OxwN-0/lsV25UUzRJtb6bxnNv-Wsg/view?utm_content=DAGj8OxwN-0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd977484f0a',
     };
 
     const pathParts = event.path.split('/');
