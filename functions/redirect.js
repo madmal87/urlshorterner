@@ -17,6 +17,7 @@ exports.handler = async (event) => {
         'slot1': 'https://www.canva.com/design/DAGj8OxwN-0/lsV25UUzRJtb6bxnNv-Wsg/view?utm_content=DAGj8OxwN-0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd977484f0a',
         'chatgptppd': 'https://docs.google.com/presentation/d/1n5VbrWYV52mFb6QUl8q1BMqI1D2cGNm2WnJUUD9NOwQ/edit?usp=sharing',
         'ilmubestari': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1874-bengkel-ilmu-bestari-literasi-maklumat-dan-jejak-digital',
+        'gambarib': 'https://drive.google.com/drive/folders/1mZMZY33jRUR3s13Umu-c7U36pgRFq9Ai?usp=drive_link',
     };
 
     const pathParts = event.path.split('/');
