@@ -19,6 +19,7 @@ exports.handler = async (event) => {
         'ilmubestari': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1874-bengkel-ilmu-bestari-literasi-maklumat-dan-jejak-digital',
         'gambarib': 'https://drive.google.com/drive/folders/1mZMZY33jRUR3s13Umu-c7U36pgRFq9Ai?usp=drive_link',
         'mpp': 'https://www.facebook.com/ptdijohor/posts/pfbid02zpqb85hX4SY1FXFA6cLTWmvSN7rQfScNdUQckpWzGBHx3xT7Q3Zz6b5gKbpvarCml',
+        'webmpp': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1880-kunjungan-hormat-majlis-perwakilan-pelajar-mpp-sesi-2024-2025',
     };
 
     const pathParts = event.path.split('/');
