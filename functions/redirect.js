@@ -20,6 +20,7 @@ exports.handler = async (event) => {
         'gambarib': 'https://drive.google.com/drive/folders/1mZMZY33jRUR3s13Umu-c7U36pgRFq9Ai?usp=drive_link',
         'mpp': 'https://www.facebook.com/ptdijohor/posts/pfbid02zpqb85hX4SY1FXFA6cLTWmvSN7rQfScNdUQckpWzGBHx3xT7Q3Zz6b5gKbpvarCml',
         'webmpp': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1880-kunjungan-hormat-majlis-perwakilan-pelajar-mpp-sesi-2024-2025',
+        '1s1b': 'https://www.facebook.com/share/p/1EV78ykiNH/',
     };
 
     const pathParts = event.path.split('/');
