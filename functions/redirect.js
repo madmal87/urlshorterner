@@ -23,6 +23,7 @@ exports.handler = async (event) => {
         '1s1b': 'https://www.facebook.com/share/p/1EV78ykiNH/',
         'slidechatgpt': 'https://docs.google.com/presentation/d/1FnmdSO3xlKgAaD7tm8_PKtpLyB6gmOXoOUc1Zek9Eco/edit?usp=sharing',
         'sijilgenerator': 'https://docs.google.com/document/d/1unXGShHk1RfYI9canoCaF93sHV-Nh1FnzG3CjbfAdw4/edit?usp=sharing',
+        'ptdireport2025': 'https://www.canva.com/design/DAGgYOt2qB4/ah9u0YPqQkRue6dCEIIRUQ/edit',
     };
 
     const pathParts = event.path.split('/');
