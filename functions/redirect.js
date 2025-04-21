@@ -24,6 +24,7 @@ exports.handler = async (event) => {
         'slidechatgpt': 'https://docs.google.com/presentation/d/1FnmdSO3xlKgAaD7tm8_PKtpLyB6gmOXoOUc1Zek9Eco/edit?usp=sharing',
         'sijilgenerator': 'https://docs.google.com/document/d/1unXGShHk1RfYI9canoCaF93sHV-Nh1FnzG3CjbfAdw4/edit?usp=sharing',
         'ptdireport2025': 'https://www.canva.com/design/DAGgYOt2qB4/ah9u0YPqQkRue6dCEIIRUQ/edit',
+        'kursuspemimpinmuda': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1901-kursus-kepimpinan-pemimpin-muda-sekolah-kebangsaan-temenggong-abdul-rahman',
     };
 
     const pathParts = event.path.split('/');
