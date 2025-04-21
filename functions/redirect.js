@@ -25,6 +25,7 @@ exports.handler = async (event) => {
         'sijilgenerator': 'https://docs.google.com/document/d/1unXGShHk1RfYI9canoCaF93sHV-Nh1FnzG3CjbfAdw4/edit?usp=sharing',
         'ptdireport2025': 'https://www.canva.com/design/DAGgYOt2qB4/ah9u0YPqQkRue6dCEIIRUQ/edit',
         'kursuspemimpinmuda': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1901-kursus-kepimpinan-pemimpin-muda-sekolah-kebangsaan-temenggong-abdul-rahman',
+        'persaraan': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1902-syawal-dirai-budi-disanjung-majlis-persaraan-hari-raya-ptdi',
     };
 
     const pathParts = event.path.split('/');
