@@ -30,6 +30,7 @@ exports.handler = async (event) => {
         'sambutanraya': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1926-penglibatan-warga-perpustakaan-tun-dr-ismail-di-majlis-sambutan-hari-raya-perdana-uitm-johor-2025',
         'jommembaca': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1927-jom-baca-bersama-10-minit-nikmati-saat-ini-2',
         'harikeluarga': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1928-program-hari-keluarga-perpustakaan-tun-dr-ismail',
+        'myipo': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1929-inovasi-diperkasa-hak-cipta-dilindungi-ptdi-serah-permohonan-rasmi-ke-myipo',
     };
 
     const pathParts = event.path.split('/');
