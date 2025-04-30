@@ -27,6 +27,7 @@ exports.handler = async (event) => {
         'kursuspemimpinmuda': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1901-kursus-kepimpinan-pemimpin-muda-sekolah-kebangsaan-temenggong-abdul-rahman',
         'persaraan': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1902-syawal-dirai-budi-disanjung-majlis-persaraan-hari-raya-ptdi',
         'familyday': 'https://docs.google.com/document/d/1LXko4_fQXT0MfFDtXqhfiu5V3I0RwTOX/edit',
+        'sambutanraya': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1926-penglibatan-warga-perpustakaan-tun-dr-ismail-di-majlis-sambutan-hari-raya-perdana-uitm-johor-2025',
     };
 
     const pathParts = event.path.split('/');
