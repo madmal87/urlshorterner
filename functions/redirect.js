@@ -29,6 +29,7 @@ exports.handler = async (event) => {
         'familyday': 'https://docs.google.com/document/d/1LXko4_fQXT0MfFDtXqhfiu5V3I0RwTOX/edit',
         'sambutanraya': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1926-penglibatan-warga-perpustakaan-tun-dr-ismail-di-majlis-sambutan-hari-raya-perdana-uitm-johor-2025',
         'jommembaca': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1927-jom-baca-bersama-10-minit-nikmati-saat-ini-2',
+        'harikeluarga': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1928-program-hari-keluarga-perpustakaan-tun-dr-ismail',
     };
 
     const pathParts = event.path.split('/');
