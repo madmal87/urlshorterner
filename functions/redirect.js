@@ -31,6 +31,7 @@ exports.handler = async (event) => {
         'jommembaca': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1927-jom-baca-bersama-10-minit-nikmati-saat-ini-2',
         'harikeluarga': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1928-program-hari-keluarga-perpustakaan-tun-dr-ismail',
         'myipo': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1929-inovasi-diperkasa-hak-cipta-dilindungi-ptdi-serah-permohonan-rasmi-ke-myipo',
+        'keselamatandankesihatan': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1930-kkp-jadi-fokus-ptdi-bawa-keselamatan-kesihatan-ke-garis-hadapan',
     };
 
     const pathParts = event.path.split('/');
