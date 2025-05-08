@@ -34,6 +34,7 @@ exports.handler = async (event) => {
         'keselamatandankesihatan': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1930-kkp-jadi-fokus-ptdi-bawa-keselamatan-kesihatan-ke-garis-hadapan',
         'sanggar': 'https://library.uitm.edu.my/news/1958-menjulang-bahasa-membentuk-generasi-madani-perbincangan-awal-program-kem-sanggar-bahasa-daerah-segamat',
         'johormembaca': 'https://library.uitm.edu.my/news/1959-uitm-johor-membaca-siri-2-2025-galak-budaya-ilmu-dan-literasi-digital',
+        'mobilelibrary': 'https://library.uitm.edu.my/news/1961-mesyuarat-gerak-kerja-mobile-library-ptdi2u-secara-maya',
     };
 
     const pathParts = event.path.split('/');
