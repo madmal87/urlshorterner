@@ -32,6 +32,7 @@ exports.handler = async (event) => {
         'harikeluarga': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1928-program-hari-keluarga-perpustakaan-tun-dr-ismail',
         'myipo': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1929-inovasi-diperkasa-hak-cipta-dilindungi-ptdi-serah-permohonan-rasmi-ke-myipo',
         'keselamatandankesihatan': 'https://library.uitm.edu.my/services/learning/teaching-library-programme/1930-kkp-jadi-fokus-ptdi-bawa-keselamatan-kesihatan-ke-garis-hadapan',
+        'sanggar': 'https://library.uitm.edu.my/news/1958-menjulang-bahasa-membentuk-generasi-madani-perbincangan-awal-program-kem-sanggar-bahasa-daerah-segamat',
     };
 
     const pathParts = event.path.split('/');
