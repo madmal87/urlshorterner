@@ -35,6 +35,7 @@ exports.handler = async (event) => {
         'sanggar': 'https://library.uitm.edu.my/news/1958-menjulang-bahasa-membentuk-generasi-madani-perbincangan-awal-program-kem-sanggar-bahasa-daerah-segamat',
         'johormembaca': 'https://library.uitm.edu.my/news/1959-uitm-johor-membaca-siri-2-2025-galak-budaya-ilmu-dan-literasi-digital',
         'mobilelibrary': 'https://library.uitm.edu.my/news/1961-mesyuarat-gerak-kerja-mobile-library-ptdi2u-secara-maya',
+        'sejarahawal': 'https://library.uitm.edu.my/news/1962-merintis-sejarah-melalui-lisan-ptdi-mulakan-perbincangan-awal-bersama-tokoh-pesara',
     };
 
     const pathParts = event.path.split('/');
