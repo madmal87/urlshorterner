@@ -36,6 +36,7 @@ exports.handler = async (event) => {
         'johormembaca': 'https://library.uitm.edu.my/news/1959-uitm-johor-membaca-siri-2-2025-galak-budaya-ilmu-dan-literasi-digital',
         'mobilelibrary': 'https://library.uitm.edu.my/news/1961-mesyuarat-gerak-kerja-mobile-library-ptdi2u-secara-maya',
         'sejarahawal': 'https://library.uitm.edu.my/news/1962-merintis-sejarah-melalui-lisan-ptdi-mulakan-perbincangan-awal-bersama-tokoh-pesara',
+        'isucadangan': 'https://forms.gle/h4A6aNoawrPaRnt97',
     };
 
     const pathParts = event.path.split('/');
