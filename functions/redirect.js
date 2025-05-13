@@ -37,6 +37,7 @@ exports.handler = async (event) => {
         'mobilelibrary': 'https://library.uitm.edu.my/news/1961-mesyuarat-gerak-kerja-mobile-library-ptdi2u-secara-maya',
         'sejarahawal': 'https://library.uitm.edu.my/news/1962-merintis-sejarah-melalui-lisan-ptdi-mulakan-perbincangan-awal-bersama-tokoh-pesara',
         'isucadangan': 'https://forms.gle/h4A6aNoawrPaRnt97',
+        'cadanganbuku': 'https://library.uitm.edu.my/news/1967-sistem-permata-perkasa-pembangunan-koleksi-berasaskan-silibus-di-ptdi',
     };
 
     const pathParts = event.path.split('/');
