@@ -38,6 +38,7 @@ exports.handler = async (event) => {
         'sejarahawal': 'https://library.uitm.edu.my/news/1962-merintis-sejarah-melalui-lisan-ptdi-mulakan-perbincangan-awal-bersama-tokoh-pesara',
         'isucadangan': 'https://forms.gle/h4A6aNoawrPaRnt97',
         'cadanganbuku': 'https://library.uitm.edu.my/news/1967-sistem-permata-perkasa-pembangunan-koleksi-berasaskan-silibus-di-ptdi',
+        'cekcura': 'https://www.facebook.com/ptdijohor/posts/pfbid024c9kyhUDxovEMnR89iD1g1Z4UdEXfD9CyMgKLs9aN5L3aPR4qR9UxWuNoNSvUiSQl',
     };
 
     const pathParts = event.path.split('/');
