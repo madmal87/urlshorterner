@@ -41,6 +41,7 @@ exports.handler = async (event) => {
         'cekcura': 'https://www.facebook.com/ptdijohor/posts/pfbid024c9kyhUDxovEMnR89iD1g1Z4UdEXfD9CyMgKLs9aN5L3aPR4qR9UxWuNoNSvUiSQl',
         'mobilelibrary1': 'https://library.uitm.edu.my/news/1990-perpustakaan-bergerak-ptdi2u-tarik-perhatian-warga-kampus',
         'sejarahlisan': 'https://www.youtube.com/watch?v=KKmj1o9piuY',
+        'kehadiransejarah': 'https://library.uitm.edu.my/component/jem/event/530:program-awalan-projek-sejarah-lisan-uitm-cawangan-johor',
     };
 
     const pathParts = event.path.split('/');
