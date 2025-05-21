@@ -45,6 +45,7 @@ exports.handler = async (event) => {
         'pemuliharaanarkib': 'https://library.uitm.edu.my/news/2002-pemuliharaan-bahan-ilmu-antara-teori-dan-praktikal',
         'libraryjourney': 'https://library.uitm.edu.my/news/2003-program-journey-to-library-tingkat-kefahaman-kemudahan-perpustakaan-digital',
         'liveyt': 'https://youtube.com/live/5qAp2bbvbOU?feature=share',
+        'sejarah': 'https://library.uitm.edu.my/news/2013-uitm-johor-mulakan-langkah-awal-projek-sejarah-lisan-bersama-pesara-kampus',
     };
 
     const pathParts = event.path.split('/');
