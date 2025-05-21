@@ -44,6 +44,7 @@ exports.handler = async (event) => {
         'kehadiransejarah': 'https://library.uitm.edu.my/component/jem/event/530:program-awalan-projek-sejarah-lisan-uitm-cawangan-johor',
         'pemuliharaanarkib': 'https://library.uitm.edu.my/news/2002-pemuliharaan-bahan-ilmu-antara-teori-dan-praktikal',
         'libraryjourney': 'https://library.uitm.edu.my/news/2003-program-journey-to-library-tingkat-kefahaman-kemudahan-perpustakaan-digital',
+        'liveyt': 'https://youtube.com/live/5qAp2bbvbOU?feature=share',
     };
 
     const pathParts = event.path.split('/');
