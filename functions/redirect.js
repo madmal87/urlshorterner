@@ -47,6 +47,7 @@ exports.handler = async (event) => {
         'liveyt': 'https://youtube.com/live/5qAp2bbvbOU?feature=share',
         'sejarah': 'https://library.uitm.edu.my/news/2013-uitm-johor-mulakan-langkah-awal-projek-sejarah-lisan-bersama-pesara-kampus',
         'libkeyless': 'https://library.uitm.edu.my/component/jem/event/540:lib-keyless-pengintegrasian-teknologi-iot',
+        'kehadiran1staf': 'https://library.uitm.edu.my/component/jem/event/544:program-budaya-ilmu-1-staf-1-buku',
     };
 
     const pathParts = event.path.split('/');
