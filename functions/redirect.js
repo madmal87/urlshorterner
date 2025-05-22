@@ -46,6 +46,7 @@ exports.handler = async (event) => {
         'libraryjourney': 'https://library.uitm.edu.my/news/2003-program-journey-to-library-tingkat-kefahaman-kemudahan-perpustakaan-digital',
         'liveyt': 'https://youtube.com/live/5qAp2bbvbOU?feature=share',
         'sejarah': 'https://library.uitm.edu.my/news/2013-uitm-johor-mulakan-langkah-awal-projek-sejarah-lisan-bersama-pesara-kampus',
+        'libkeyless': 'https://library.uitm.edu.my/component/jem/event/540:lib-keyless-pengintegrasian-teknologi-iot',
     };
 
     const pathParts = event.path.split('/');
