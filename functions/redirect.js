@@ -51,6 +51,7 @@ exports.handler = async (event) => {
         'jalinanmesra': 'https://library.uitm.edu.my/news/2028-jalinan-ilmu-kukuhkan-hubungan-ptdi-dan-smk-canossian-convent-segamat',
         'stemknowledge': 'https://library.uitm.edu.my/news/2029-fun-with-science-ptdi-jayakan-program-a-day-with-stem-knowledge',
         'q12025': 'https://library.uitm.edu.my/news/2030-ptdi-terlibat-dalam-sesi-pembentangan-prestasi-strategik-perpustakaan-uitm-q1-2025',
+        'sihat360': 'https://library.uitm.edu.my/news/2031-program-sejahtera-360-sihat-bersama-warga-ptdi-siri-4-2025-jayakan-gaya-hidup-sihat-di-tempat-kerja',
     };
 
     const pathParts = event.path.split('/');
