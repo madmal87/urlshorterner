@@ -52,6 +52,9 @@ exports.handler = async (event) => {
         'stemknowledge': 'https://library.uitm.edu.my/news/2029-fun-with-science-ptdi-jayakan-program-a-day-with-stem-knowledge',
         'q12025': 'https://library.uitm.edu.my/news/2030-ptdi-terlibat-dalam-sesi-pembentangan-prestasi-strategik-perpustakaan-uitm-q1-2025',
         'sihat360': 'https://library.uitm.edu.my/news/2031-program-sejahtera-360-sihat-bersama-warga-ptdi-siri-4-2025-jayakan-gaya-hidup-sihat-di-tempat-kerja',
+        'libkey': 'https://library.uitm.edu.my/news/2032-lib-keyless-langkah-ke-arah-pengurusan-akses-pintar-di-ptdi',
+        '1staf1buku': 'https://library.uitm.edu.my/news/2033-program-1-staf-1-buku-book-review-galak-budaya-membaca-dan-perkongsian-ilmu-di-ptdi',
+        'xxx': 'https://library.uitm.edu.my/news/2033-program-1-staf-1-buku-book-review-galak-budaya-membaca-dan-perkongsian-ilmu-di-ptdi',
     };
 
     const pathParts = event.path.split('/');
