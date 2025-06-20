@@ -56,6 +56,7 @@ exports.handler = async (event) => {
         '1staf1buku': 'https://library.uitm.edu.my/news/2033-program-1-staf-1-buku-book-review-galak-budaya-membaca-dan-perkongsian-ilmu-di-ptdi',
         'chatgptxcatuitm': 'https://docs.google.com/presentation/d/15GUXJMLxQUtGYE5q5wu4OjTBGiaGeZ2BhT9FEgM-ork/edit?usp=sharing',
         'chatgptx2': 'https://drive.google.com/drive/folders/1ZNMwE88M7gev285-IMzVITfxz_4XoXvQ?usp=sharing',
+        'sahabat': 'https://forms.gle/zS6CRjKPPGdiePz88',
     };
 
     const pathParts = event.path.split('/');
