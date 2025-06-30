@@ -57,6 +57,7 @@ exports.handler = async (event) => {
         'chatgptxcatuitm': 'https://docs.google.com/presentation/d/15GUXJMLxQUtGYE5q5wu4OjTBGiaGeZ2BhT9FEgM-ork/edit?usp=sharing',
         'chatgptx2': 'https://drive.google.com/drive/folders/1ZNMwE88M7gev285-IMzVITfxz_4XoXvQ?usp=sharing',
         'sahabat': 'https://forms.gle/zS6CRjKPPGdiePz88',
+        'tiktokmastery': 'https://library.uitm.edu.my/news/anugerah-hab-e-usahawan-tiktok-mastery-perpustakaan-kini-pemangkin-dunia-niaga-digital',
     };
 
     const pathParts = event.path.split('/');
