@@ -58,6 +58,7 @@ exports.handler = async (event) => {
         'chatgptx2': 'https://drive.google.com/drive/folders/1ZNMwE88M7gev285-IMzVITfxz_4XoXvQ?usp=sharing',
         'sahabat': 'https://forms.gle/zS6CRjKPPGdiePz88',
         'tiktokmastery': 'https://library.uitm.edu.my/news/anugerah-hab-e-usahawan-tiktok-mastery-perpustakaan-kini-pemangkin-dunia-niaga-digital',
+        'johorbersih': 'https://library.uitm.edu.my/news/program-johor-bersih-2-0-ptdi-teguh-sokong-kebersihan-kampus-dan-kelestarian-alam',
     };
 
     const pathParts = event.path.split('/');
