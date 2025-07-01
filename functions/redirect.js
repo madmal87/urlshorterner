@@ -59,6 +59,7 @@ exports.handler = async (event) => {
         'sahabat': 'https://forms.gle/zS6CRjKPPGdiePz88',
         'tiktokmastery': 'https://library.uitm.edu.my/news/anugerah-hab-e-usahawan-tiktok-mastery-perpustakaan-kini-pemangkin-dunia-niaga-digital',
         'johorbersih': 'https://library.uitm.edu.my/news/program-johor-bersih-2-0-ptdi-teguh-sokong-kebersihan-kampus-dan-kelestarian-alam',
+        'petronas': 'https://library.uitm.edu.my/news/minda-keusahawanan-alumni-uitm-cetus-inspirasi-mahasiswa-ke-dunia-korporat',
     };
 
     const pathParts = event.path.split('/');
