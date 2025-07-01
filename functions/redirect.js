@@ -61,6 +61,7 @@ exports.handler = async (event) => {
         'johorbersih': 'https://library.uitm.edu.my/news/program-johor-bersih-2-0-ptdi-teguh-sokong-kebersihan-kampus-dan-kelestarian-alam',
         'petronas': 'https://library.uitm.edu.my/news/minda-keusahawanan-alumni-uitm-cetus-inspirasi-mahasiswa-ke-dunia-korporat',
         'arkib': 'https://library.uitm.edu.my/news/melestarikan-warisan-bengkel-teknik-pengawetan-bahan-arkib-tarik-minat-pelajar-uitm',
+        'spell': 'https://library.uitm.edu.my/news/s-p-e-l-l-competition-2025-serlahkan-minda-cekap-perkukuh-penguasaan-bahasa',
     };
 
     const pathParts = event.path.split('/');
