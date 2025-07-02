@@ -65,6 +65,7 @@ exports.handler = async (event) => {
         'boulevard': 'https://library.uitm.edu.my/news/ptdi-serlah-inovasi-di-pertandingan-poster-consal-boulevard-2025',
         'smkconvent': 'https://library.uitm.edu.my/news/dari-kelas-ke-kehidupan-ptdi-bimbing-pelajar-smk-canossian-convent-tentukan-hala-tuju-lepas-spm',
         'akpk': 'https://library.uitm.edu.my/news/dompet-sihat-hidup-selamat-akpk-didik-warga-kampus-urus-kewangan-bijak',
+        'kpdnk': 'https://library.uitm.edu.my/news/advokasi-kepenggunaan-explorace-sinergi-hebat-kampus-dan-komuniti',
     };
 
     const pathParts = event.path.split('/');
