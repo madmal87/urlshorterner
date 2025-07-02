@@ -62,6 +62,7 @@ exports.handler = async (event) => {
         'petronas': 'https://library.uitm.edu.my/news/minda-keusahawanan-alumni-uitm-cetus-inspirasi-mahasiswa-ke-dunia-korporat',
         'arkib': 'https://library.uitm.edu.my/news/melestarikan-warisan-bengkel-teknik-pengawetan-bahan-arkib-tarik-minat-pelajar-uitm',
         'spell': 'https://library.uitm.edu.my/news/s-p-e-l-l-competition-2025-serlahkan-minda-cekap-perkukuh-penguasaan-bahasa',
+        'boulevard': 'https://library.uitm.edu.my/news/ptdi-serlah-inovasi-di-pertandingan-poster-consal-boulevard-2025',
     };
 
     const pathParts = event.path.split('/');
