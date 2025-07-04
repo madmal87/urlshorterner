@@ -66,6 +66,7 @@ exports.handler = async (event) => {
         'smkconvent': 'https://library.uitm.edu.my/news/dari-kelas-ke-kehidupan-ptdi-bimbing-pelajar-smk-canossian-convent-tentukan-hala-tuju-lepas-spm',
         'akpk': 'https://library.uitm.edu.my/news/dompet-sihat-hidup-selamat-akpk-didik-warga-kampus-urus-kewangan-bijak',
         'kpdnk': 'https://library.uitm.edu.my/news/advokasi-kepenggunaan-explorace-sinergi-hebat-kampus-dan-komuniti',
+        'program360': 'https://library.uitm.edu.my/news/program-sejahtera-360-perkukuh-gaya-hidup-sihat-warga-ptdi',
     };
 
     const pathParts = event.path.split('/');
