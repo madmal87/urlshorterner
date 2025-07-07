@@ -67,6 +67,7 @@ exports.handler = async (event) => {
         'akpk': 'https://library.uitm.edu.my/news/dompet-sihat-hidup-selamat-akpk-didik-warga-kampus-urus-kewangan-bijak',
         'kpdnk': 'https://library.uitm.edu.my/news/advokasi-kepenggunaan-explorace-sinergi-hebat-kampus-dan-komuniti',
         'program360': 'https://library.uitm.edu.my/news/program-sejahtera-360-perkukuh-gaya-hidup-sihat-warga-ptdi',
+        'akar': 'https://library.uitm.edu.my/news/akar-membumi-inovasi-menjulang-ptdi-perkasa-budaya-inovatif-bersama-jken',
     };
 
     const pathParts = event.path.split('/');
