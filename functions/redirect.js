@@ -72,6 +72,7 @@ exports.handler = async (event) => {
         'jejakmaklumat2': 'https://library.uitm.edu.my/news/menjejak-ilmu-menyulam-minda-pembukaan-meriah-jejak-maklumat-daerah-segamat-hari-kedua',
         'telaahbuku': 'https://library.uitm.edu.my/news/program-telaah-ilmu-1-staf-1-buku-book-review-perkukuh-budaya-membaca-di-ptdi',
         'senyum': 'https://library.uitm.edu.my/news/senyum-perkasa-etika-layanan-pelanggan-ptdi',
+        'customerchoice': 'https://library.uitm.edu.my/news/puan-norme-terima-sijil-penghargaan-customer-choice-award-tahun-2025',
     };
 
     const pathParts = event.path.split('/');
