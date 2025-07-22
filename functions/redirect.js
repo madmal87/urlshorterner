@@ -70,6 +70,7 @@ exports.handler = async (event) => {
         'akar': 'https://library.uitm.edu.my/news/akar-membumi-inovasi-menjulang-ptdi-perkasa-budaya-inovatif-bersama-jken',
         'jejakmaklumat1': 'https://library.uitm.edu.my/news/menjejak-ilmu-menyulam-minda-pembukaan-meriah-jejak-maklumat-daerah-segamat-hari-pertama',
         'jejakmaklumat2': 'https://library.uitm.edu.my/news/menjejak-ilmu-menyulam-minda-pembukaan-meriah-jejak-maklumat-daerah-segamat-hari-kedua',
+        'telaahbuku': 'https://library.uitm.edu.my/news/program-telaah-ilmu-1-staf-1-buku-book-review-perkukuh-budaya-membaca-di-ptdi',
     };
 
     const pathParts = event.path.split('/');
