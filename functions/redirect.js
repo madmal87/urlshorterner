@@ -74,6 +74,7 @@ exports.handler = async (event) => {
         'senyum': 'https://library.uitm.edu.my/news/senyum-perkasa-etika-layanan-pelanggan-ptdi',
         'customerchoice': 'https://library.uitm.edu.my/news/puan-norme-terima-sijil-penghargaan-customer-choice-award-tahun-2025',
         'yasiin': 'https://library.uitm.edu.my/news/satu-hati-satu-doa-ptdi-anjur-bacaan-yaasin-doa-bersama',
+        'pemantauan': 'https://library.uitm.edu.my/news/pantau-demi-prihatin-pemantauan-fasiliti-ptdi-2-tingkatkan-kualiti-perkhidmatan',
     };
 
     const pathParts = event.path.split('/');
