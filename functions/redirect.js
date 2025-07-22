@@ -73,6 +73,7 @@ exports.handler = async (event) => {
         'telaahbuku': 'https://library.uitm.edu.my/news/program-telaah-ilmu-1-staf-1-buku-book-review-perkukuh-budaya-membaca-di-ptdi',
         'senyum': 'https://library.uitm.edu.my/news/senyum-perkasa-etika-layanan-pelanggan-ptdi',
         'customerchoice': 'https://library.uitm.edu.my/news/puan-norme-terima-sijil-penghargaan-customer-choice-award-tahun-2025',
+        'yasiin': 'https://library.uitm.edu.my/news/satu-hati-satu-doa-ptdi-anjur-bacaan-yaasin-doa-bersama',
     };
 
     const pathParts = event.path.split('/');
