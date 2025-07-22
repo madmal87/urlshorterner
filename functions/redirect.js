@@ -69,6 +69,7 @@ exports.handler = async (event) => {
         'program360': 'https://library.uitm.edu.my/news/program-sejahtera-360-perkukuh-gaya-hidup-sihat-warga-ptdi',
         'akar': 'https://library.uitm.edu.my/news/akar-membumi-inovasi-menjulang-ptdi-perkasa-budaya-inovatif-bersama-jken',
         'jejakmaklumat1': 'https://library.uitm.edu.my/news/menjejak-ilmu-menyulam-minda-pembukaan-meriah-jejak-maklumat-daerah-segamat-hari-pertama',
+        'jejakmaklumat2': 'https://library.uitm.edu.my/news/menjejak-ilmu-menyulam-minda-pembukaan-meriah-jejak-maklumat-daerah-segamat-hari-kedua',
     };
 
     const pathParts = event.path.split('/');
