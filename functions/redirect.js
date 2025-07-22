@@ -76,6 +76,7 @@ exports.handler = async (event) => {
         'yasiin': 'https://library.uitm.edu.my/news/satu-hati-satu-doa-ptdi-anjur-bacaan-yaasin-doa-bersama',
         'pemantauan': 'https://library.uitm.edu.my/news/pantau-demi-prihatin-pemantauan-fasiliti-ptdi-2-tingkatkan-kualiti-perkhidmatan',
         'sinergippd': 'https://library.uitm.edu.my/news/menjalin-jaringan-strategik-ptdi-perkukuh-kolaborasi-bersama-ppd-muar-ppd-tangkak-ppd-kluang',
+        'apc2025': 'https://library.uitm.edu.my/news/syabas-dan-tahniah-penerima-anugerah-perkhidmatan-cemerlang-2024',
     };
 
     const pathParts = event.path.split('/');
