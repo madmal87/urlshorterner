@@ -80,6 +80,7 @@ exports.handler = async (event) => {
         'ytptdi': 'https://l.facebook.com/l.php?u=https%3A%2F%2Fshorturl.at%2FetTNy%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExUXNsbEdVNXJFbFFkTUUxYwEeNomLT1czfEIb1xLaMqRsVL2xRA6QgPNgjkKPbF2BYOBxunZyKUV-3JehLj8_aem_RRDn3rV8I0uItM7WC5vvDQ&h=AT0ykAHdCiKxeL9mlYFEma7UW82RJZmzYLoJkH413iuilE5T0NA0sbESjIzu8KRL0aK9ooE9yLOeSCvCkLRIbNWDNyznVgqngMpQ6DDMtrU3CIv6oeCy6OELfdFpx1kR_ViUjWO2qySvukwtXX_m8chRpYXj-LF1&__tn__=-UK-R&c[0]=AT0Vh2rIkm5ws4NafJbruMNwNXgctDkVBwaUYpR1iS71B6GMFdyHqKJ6H6rQNrEkvT2ZeDItvNGfalKCHT-Qg1DDkZwo-6SKu4MRz5fODQ__B7W6HgwjjUG5r8ONXFWqJ3ZyJC7offeMaULLw7rGu-eBfwDnGaPmFb6K8rbRspmX03em3OS7xPShpZljABPc5zgeI8nKOCQTeX9abxgieyvN8A',
         'ptdipodcast': 'https://youtu.be/r446KRkqYEg?si=mbtm7eW4032a74-a',
         'sukab': 'https://library.uitm.edu.my/news/kejayaan-staf-ptdi-di-kejohanan-sukab-uitm-cawangan-johor',
+        'selamatdatang': 'https://library.uitm.edu.my/news/sembang-santai-bersama-ketua-pustakawan-uitm-perkasa-aspirasi-ptdi-ke-arah-transformasi-digital',
     };
 
     const pathParts = event.path.split('/');
