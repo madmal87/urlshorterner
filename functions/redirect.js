@@ -84,6 +84,7 @@ exports.handler = async (event) => {
         'tahniah': 'https://library.uitm.edu.my/news/penghargaan-khas-kepada-warga-ptdi-sempena-lawatan-ketua-pustakawan-uitm',
         'azkacorner': 'https://library.uitm.edu.my/news/majlis-penyerahan-mock-cheque-dan-perasmian-etiqa-azka-corner-oleh-etiqa-family-takaful-berhad',
         'kkssmka': 'https://library.uitm.edu.my/news/program-khidmat-komuniti-sekolah-bersama-sekolah-menengah-al-khairiah-segamat',
+        'kkssmkaba': 'https://library.uitm.edu.my/news/pengukuhan-ilmu-di-sekolah-program-khidmat-komuniti-ptdi-tekan-teknik-bacaan-pantas-dan-pencarian-maklumat',
     };
 
     const pathParts = event.path.split('/');
