@@ -87,6 +87,7 @@ exports.handler = async (event) => {
         'kkssmkaba': 'https://library.uitm.edu.my/news/pengukuhan-ilmu-di-sekolah-program-khidmat-komuniti-ptdi-tekan-teknik-bacaan-pantas-dan-pencarian-maklumat',
         'welcomepnc': 'https://library.uitm.edu.my/news/kunjungan-penolong-naib-canselor-strategi-memeriahkan-perpustakaan-tun-dr-ismail',
         'selamatdatangli': 'https://library.uitm.edu.my/news/selamat-datang-pelajar-latihan-industri-ke-perpustakaan-tun-dr-ismail',
+        'batupahat': 'https://library.uitm.edu.my/news/ptdi-dan-ppd-batu-pahat-jalin-kerjasama-strategik-perkasa-literasi-maklumat-sekolah',
     };
 
     const pathParts = event.path.split('/');
