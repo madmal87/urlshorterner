@@ -86,6 +86,7 @@ exports.handler = async (event) => {
         'kkssmka': 'https://library.uitm.edu.my/news/program-khidmat-komuniti-sekolah-bersama-sekolah-menengah-al-khairiah-segamat',
         'kkssmkaba': 'https://library.uitm.edu.my/news/pengukuhan-ilmu-di-sekolah-program-khidmat-komuniti-ptdi-tekan-teknik-bacaan-pantas-dan-pencarian-maklumat',
         'welcomepnc': 'https://library.uitm.edu.my/news/kunjungan-penolong-naib-canselor-strategi-memeriahkan-perpustakaan-tun-dr-ismail',
+        'selamatdatangli': 'https://library.uitm.edu.my/news/selamat-datang-pelajar-latihan-industri-ke-perpustakaan-tun-dr-ismail',
     };
 
     const pathParts = event.path.split('/');
