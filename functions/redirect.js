@@ -81,6 +81,7 @@ exports.handler = async (event) => {
         'ptdipodcast': 'https://youtu.be/r446KRkqYEg?si=mbtm7eW4032a74-a',
         'sukab': 'https://library.uitm.edu.my/news/kejayaan-staf-ptdi-di-kejohanan-sukab-uitm-cawangan-johor',
         'selamatdatang': 'https://library.uitm.edu.my/news/sembang-santai-bersama-ketua-pustakawan-uitm-perkasa-aspirasi-ptdi-ke-arah-transformasi-digital',
+        'tahniah': 'https://library.uitm.edu.my/news/penghargaan-khas-kepada-warga-ptdi-sempena-lawatan-ketua-pustakawan-uitm',
     };
 
     const pathParts = event.path.split('/');
