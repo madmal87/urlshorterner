@@ -93,6 +93,7 @@ exports.handler = async (event) => {
         'bendahari': 'https://library.uitm.edu.my/news/ptdi-terus-komited-perkukuh-pengurusan-rekod-secara-sistematik',
         'jalurgemilang': 'https://library.uitm.edu.my/news/kibaran-jalur-gemilang-tanda-cinta-ptdi-kepada-malaysia',
         'sejahtera360': 'https://library.uitm.edu.my/news/program-sejahtera-360-sihat-bersama-ptdi',
+        'mindarektor': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
     };
 
     const pathParts = event.path.split('/');
