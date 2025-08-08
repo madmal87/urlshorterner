@@ -92,6 +92,7 @@ exports.handler = async (event) => {
         'datoonn': 'https://library.uitm.edu.my/news/menelusuri-sejarah-penandaarasan-lawatan-ptdi-ke-galeri-dato-onn',
         'bendahari': 'https://library.uitm.edu.my/news/ptdi-terus-komited-perkukuh-pengurusan-rekod-secara-sistematik',
         'jalurgemilang': 'https://library.uitm.edu.my/news/kibaran-jalur-gemilang-tanda-cinta-ptdi-kepada-malaysia',
+        'sejahtera360': 'https://library.uitm.edu.my/news/program-sejahtera-360-sihat-bersama-ptdi',
     };
 
     const pathParts = event.path.split('/');
