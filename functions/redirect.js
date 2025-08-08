@@ -90,6 +90,7 @@ exports.handler = async (event) => {
         'batupahat': 'https://library.uitm.edu.my/news/ptdi-dan-ppd-batu-pahat-jalin-kerjasama-strategik-perkasa-literasi-maklumat-sekolah',
         'podcast2': 'https://library.uitm.edu.my/news/ptdi-on-air-episod-2-inovatif-inspiratif-cerita-kik-pembantu-pustakawan-kini-di-youtube',
         'datoonn': 'https://library.uitm.edu.my/news/menelusuri-sejarah-penandaarasan-lawatan-ptdi-ke-galeri-dato-onn',
+        'bendahari': 'https://library.uitm.edu.my/news/ptdi-terus-komited-perkukuh-pengurusan-rekod-secara-sistematik',
     };
 
     const pathParts = event.path.split('/');
