@@ -91,6 +91,7 @@ exports.handler = async (event) => {
         'podcast2': 'https://library.uitm.edu.my/news/ptdi-on-air-episod-2-inovatif-inspiratif-cerita-kik-pembantu-pustakawan-kini-di-youtube',
         'datoonn': 'https://library.uitm.edu.my/news/menelusuri-sejarah-penandaarasan-lawatan-ptdi-ke-galeri-dato-onn',
         'bendahari': 'https://library.uitm.edu.my/news/ptdi-terus-komited-perkukuh-pengurusan-rekod-secara-sistematik',
+        'jalurgemilang': 'https://library.uitm.edu.my/news/kibaran-jalur-gemilang-tanda-cinta-ptdi-kepada-malaysia',
     };
 
     const pathParts = event.path.split('/');
