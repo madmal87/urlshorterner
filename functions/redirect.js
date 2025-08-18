@@ -95,6 +95,7 @@ exports.handler = async (event) => {
         'sejahtera360': 'https://library.uitm.edu.my/news/program-sejahtera-360-sihat-bersama-ptdi',
         'mindarektor': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
         'ep1alumni': 'https://www.youtube.com/watch?v=5ANQr017Rbs',
+        'teksemcee': 'https://docs.google.com/document/d/1KLJeNeaNQN8US4QITsL1WoWFhirMpDM2/edit?usp=sharing&ouid=113157731907556890038&rtpof=true&sd=true',
     };
 
     const pathParts = event.path.split('/');
