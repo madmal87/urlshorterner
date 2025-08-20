@@ -98,6 +98,7 @@ exports.handler = async (event) => {
         'teksemcee': 'https://docs.google.com/document/d/1KLJeNeaNQN8US4QITsL1WoWFhirMpDM2/edit?usp=sharing&ouid=113157731907556890038&rtpof=true&sd=true',
         'jakoafb': 'https://www.facebook.com/events/1077077431266935/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22your_upcoming_events_unit%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D',
         'jakoayt': 'https://www.youtube.com/watch?v=vDpsw54XgLA',
+        'closingfb': 'https://www.facebook.com/events/1592866918355555',
     };
 
     const pathParts = event.path.split('/');
