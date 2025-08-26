@@ -100,6 +100,7 @@ exports.handler = async (event) => {
         'jakoayt': 'https://www.youtube.com/watch?v=vDpsw54XgLA',
         'closingfb': 'https://www.facebook.com/events/1592866918355555',
         'closingyt': 'https://www.youtube.com/watch?v=NGB3rySPmP4',
+        'ayamrecord': 'https://drive.google.com/drive/folders/19irw905Bw1l2bbJSWaj0fvTX9gGmZDIg?usp=sharing',
     };
 
     const pathParts = event.path.split('/');
