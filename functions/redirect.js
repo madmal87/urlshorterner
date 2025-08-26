@@ -101,6 +101,7 @@ exports.handler = async (event) => {
         'closingfb': 'https://www.facebook.com/events/1592866918355555',
         'closingyt': 'https://www.youtube.com/watch?v=NGB3rySPmP4',
         'ayamrecord': 'https://drive.google.com/drive/folders/19irw905Bw1l2bbJSWaj0fvTX9gGmZDIg?usp=sharing',
+        'gpt26825': 'https://docs.google.com/presentation/d/1_sTbnNhN67XGeVxZosVPpl5bn7CCUb9vrXHVruBGDow/edit?usp=sharing',
     };
 
     const pathParts = event.path.split('/');
