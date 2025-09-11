@@ -102,6 +102,7 @@ exports.handler = async (event) => {
         'closingyt': 'https://www.youtube.com/watch?v=NGB3rySPmP4',
         'ayamrecord': 'https://drive.google.com/drive/folders/19irw905Bw1l2bbJSWaj0fvTX9gGmZDIg?usp=sharing',
         'gpt26825': 'https://docs.google.com/presentation/d/1_sTbnNhN67XGeVxZosVPpl5bn7CCUb9vrXHVruBGDow/edit?usp=sharing',
+        'tentatif': 'https://docs.google.com/document/d/1pmAzMMcKJ66ETnlMR6TGpBY5lz8dYn1cqIHtI_90GJw/edit?usp=sharing',
     };
 
     const pathParts = event.path.split('/');
