@@ -108,6 +108,7 @@ exports.handler = async (event) => {
         'telaahbukuokt': 'https://library.uitm.edu.my/news/program-telaah-ilmu-1-staf-1-buku-book-review-galak-budaya-membaca-dalam-kalangan-warga-uitm-johor',
         'perkongsianstaf': 'https://library.uitm.edu.my/news/perkongsian-ilmu-penyuluh-profesionalisme-warga-ptdi-raikan-semangat-pembelajaran-berterusan',
         'lseg': 'https://library.uitm.edu.my/news/sesi-konsultasi-lseg-workspace-memperkasa-akses-ilmu-dan-penyelidikan',
+        'esport': 'https://library.uitm.edu.my/news/acs-edu-tour-e-sport-roadshow-meriahkan-ptdi-uitm-johor',
     };
 
     const pathParts = event.path.split('/');
