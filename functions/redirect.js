@@ -112,6 +112,7 @@ exports.handler = async (event) => {
         'pengukuhan': 'https://library.uitm.edu.my/news/program-pengukuhan-proses-kerja-dan-pindaan-kualiti-terus-perkukuh-tadbir-perkhidmataan-ptdi',
         'kursusptm': 'https://library.uitm.edu.my/news/warga-ptdi-sertai-program-transformasi-minda-60-2025-ke-arah-perkhidmatan-cemerlang',
         'kursusprokep': 'https://library.uitm.edu.my/news/ptdi-perkukuh-pembentukan-pemimpin-berintegriti-melalui-prokep-pelaksana-puitm-2025',
+        'kik': 'https://library.uitm.edu.my/news/kik-akar-uitm-johor-cermerlang-di-anugerah-konvensyen-zon-selatan-2025',
     };
 
     const pathParts = event.path.split('/');
