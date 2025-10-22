@@ -107,6 +107,7 @@ exports.handler = async (event) => {
         'charactertest': 'https://docs.google.com/forms/d/e/1FAIpQLScICFMtR9ReZGMNBf1XSmAfojnfNuIidgxRx1_Q2NEq4aZQJA/viewform?usp=dialog',
         'telaahbukuokt': 'https://library.uitm.edu.my/news/program-telaah-ilmu-1-staf-1-buku-book-review-galak-budaya-membaca-dalam-kalangan-warga-uitm-johor',
         'perkongsianstaf': 'https://library.uitm.edu.my/news/perkongsian-ilmu-penyuluh-profesionalisme-warga-ptdi-raikan-semangat-pembelajaran-berterusan',
+        'lseg': 'https://library.uitm.edu.my/news/sesi-konsultasi-lseg-workspace-memperkasa-akses-ilmu-dan-penyelidikan',
     };
 
     const pathParts = event.path.split('/');
