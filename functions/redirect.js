@@ -105,7 +105,8 @@ exports.handler = async (event) => {
         'tentatif': 'https://docs.google.com/document/d/1pmAzMMcKJ66ETnlMR6TGpBY5lz8dYn1cqIHtI_90GJw/edit?usp=sharing',
         'mindarektor33': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon#galleryf056fcfba7-19',
         'charactertest': 'https://docs.google.com/forms/d/e/1FAIpQLScICFMtR9ReZGMNBf1XSmAfojnfNuIidgxRx1_Q2NEq4aZQJA/viewform?usp=dialog',
-        'telaahbukuokt': 'https://www.facebook.com/ptdijohor/posts/pfbid0P1SktUtVFTUACrxyvvDkfxeYstkBDeEPgorNJVHTb84a2RwQSsw87qTEYawcnaFnl',
+        'telaahbukuokt': 'https://library.uitm.edu.my/news/program-telaah-ilmu-1-staf-1-buku-book-review-galak-budaya-membaca-dalam-kalangan-warga-uitm-johor',
+        'perkongsianstaf': 'https://library.uitm.edu.my/news/perkongsian-ilmu-penyuluh-profesionalisme-warga-ptdi-raikan-semangat-pembelajaran-berterusan',
     };
 
     const pathParts = event.path.split('/');
