@@ -109,6 +109,7 @@ exports.handler = async (event) => {
         'perkongsianstaf': 'https://library.uitm.edu.my/news/perkongsian-ilmu-penyuluh-profesionalisme-warga-ptdi-raikan-semangat-pembelajaran-berterusan',
         'lseg': 'https://library.uitm.edu.my/news/sesi-konsultasi-lseg-workspace-memperkasa-akses-ilmu-dan-penyelidikan',
         'esport': 'https://library.uitm.edu.my/news/acs-edu-tour-e-sport-roadshow-meriahkan-ptdi-uitm-johor',
+        'pengukuhan': 'https://library.uitm.edu.my/news/program-pengukuhan-proses-kerja-dan-pindaan-kualiti-terus-perkukuh-tadbir-perkhidmataan-ptdi',
     };
 
     const pathParts = event.path.split('/');
