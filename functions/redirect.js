@@ -116,6 +116,7 @@ exports.handler = async (event) => {
         'audit': 'https://library.uitm.edu.my/news/pelaksanaan-audit-pra-pengawasan-bil-2-2025-memantapkan-kepimpinan-dan-prosedur-kerja-ptdi',
         'huawei': 'https://library.uitm.edu.my/news/penglibatan-warga-ptdi-dalam-program-intelligent-world-2035',
         'johorbersih20': 'https://library.uitm.edu.my/news/ptdi-sertai-program-johor-bersih-2-0-demi-kelestarian-kampus',
+        'rawatandiri': 'https://library.uitm.edu.my/news/disebalik-tabir-program-resensi-buku-telaah-buku-islam-dan-rawatan-diri',
     };
 
     const pathParts = event.path.split('/');
