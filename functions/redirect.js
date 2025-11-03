@@ -117,6 +117,7 @@ exports.handler = async (event) => {
         'huawei': 'https://library.uitm.edu.my/news/penglibatan-warga-ptdi-dalam-program-intelligent-world-2035',
         'johorbersih20': 'https://library.uitm.edu.my/news/ptdi-sertai-program-johor-bersih-2-0-demi-kelestarian-kampus',
         'rawatandiri': 'https://library.uitm.edu.my/news/disebalik-tabir-program-resensi-buku-telaah-buku-islam-dan-rawatan-diri',
+        'sepinang': 'https://library.uitm.edu.my/news/program-budaya-ilmu-komuniti-sekolah-pengenalan-bacaan-pantas-literasi-maklumat',
     };
 
     const pathParts = event.path.split('/');
