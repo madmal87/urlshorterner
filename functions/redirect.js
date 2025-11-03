@@ -114,6 +114,7 @@ exports.handler = async (event) => {
         'kursusprokep': 'https://library.uitm.edu.my/news/ptdi-perkukuh-pembentukan-pemimpin-berintegriti-melalui-prokep-pelaksana-puitm-2025',
         'kik': 'https://library.uitm.edu.my/news/kik-akar-uitm-johor-cermerlang-di-anugerah-konvensyen-zon-selatan-2025',
         'audit': 'https://library.uitm.edu.my/news/pelaksanaan-audit-pra-pengawasan-bil-2-2025-memantapkan-kepimpinan-dan-prosedur-kerja-ptdi',
+        'huawei': 'https://library.uitm.edu.my/news/penglibatan-warga-ptdi-dalam-program-intelligent-world-2035',
     };
 
     const pathParts = event.path.split('/');
