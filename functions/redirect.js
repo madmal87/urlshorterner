@@ -120,6 +120,7 @@ exports.handler = async (event) => {
         'sepinang': 'https://library.uitm.edu.my/news/program-budaya-ilmu-komuniti-sekolah-pengenalan-bacaan-pantas-literasi-maklumat',
         'ai': 'https://library.uitm.edu.my/news/from-data-to-defence-memperkasa-keselamatan-digital-melalui-ai',
         'kehadirantazkirah': 'https://mykm.uitm.edu.my/attendance/ptar.php?id=4200&code=6a3910fb60527c3',
+        'kehadiranjakarta': 'https://mykm.uitm.edu.my/attendance/ptar.php?id=4203&code=93d0f352e8188e',
     };
 
     const pathParts = event.path.split('/');
