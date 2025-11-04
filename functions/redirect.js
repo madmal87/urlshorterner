@@ -119,6 +119,7 @@ exports.handler = async (event) => {
         'rawatandiri': 'https://library.uitm.edu.my/news/disebalik-tabir-program-resensi-buku-telaah-buku-islam-dan-rawatan-diri',
         'sepinang': 'https://library.uitm.edu.my/news/program-budaya-ilmu-komuniti-sekolah-pengenalan-bacaan-pantas-literasi-maklumat',
         'ai': 'https://library.uitm.edu.my/news/from-data-to-defence-memperkasa-keselamatan-digital-melalui-ai',
+        'kehadirantazkirah': 'https://mykm.uitm.edu.my/attendance/ptar.php?id=4200&code=6a3910fb60527c3',
     };
 
     const pathParts = event.path.split('/');
