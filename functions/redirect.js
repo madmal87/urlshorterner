@@ -123,6 +123,7 @@ exports.handler = async (event) => {
         'kehadiranjakarta': 'https://mykm.uitm.edu.my/attendance/ptar.php?id=4203&code=93d0f352e8188e',
         'mindarektor34': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
         'mindarektor35': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
+        'mindarektor36': 'https://ptdi.netlify.app/mindarektor34',
     };
 
     const pathParts = event.path.split('/');
