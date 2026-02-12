@@ -124,6 +124,7 @@ exports.handler = async (event) => {
         'mindarektor34': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
         'mindarektor35': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
         'mindarektor36': 'https://ptdi.netlify.app/mindarektor34',
+        'repositoriuitm': 'https://library.uitm.edu.my/uitmmemory/ptj/persatuan/brass-band-institut-teknologi-mara?highlight=WyJicmFzcyJd',
     };
 
     const pathParts = event.path.split('/');
