@@ -126,6 +126,7 @@ exports.handler = async (event) => {
         'mindarektor36': 'https://ptdi.netlify.app/mindarektor34',
         'repositoriuitm': 'https://library.uitm.edu.my/uitmmemory/ptj/persatuan/brass-band-institut-teknologi-mara?highlight=WyJicmFzcyJd',
         'mindarektor37': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
+        'videomds2026': 'https://drive.google.com/file/d/1m8sfBiS_Z4tQmh4Kv4Br4_05a3NiCdu6/view?usp=sharing',
     };
 
     const pathParts = event.path.split('/');
