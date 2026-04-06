@@ -129,6 +129,8 @@ exports.handler = async (event) => {
         'videomds2026': 'https://drive.google.com/file/d/1m8sfBiS_Z4tQmh4Kv4Br4_05a3NiCdu6/view?usp=sharing',
         'dendajohor': 'https://lookerstudio.google.com/reporting/b81c772d-5ad1-4033-a566-758e9d2f0000',
         'mindarektor38': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
+        'logprime': 'https://docs.google.com/spreadsheets/d/1Cw6XIxsBTXqiCliQaW2z_qGQ5Wry0qQ4zV4mLO7XLzY/edit?usp=sharing',
+        'logturnitin': 'https://docs.google.com/spreadsheets/d/1K1FW36aV4eOAcGQ0dCXONJwVqSnk6JsiouSm8y7L0lI/edit?usp=sharing',
     };
 
     const pathParts = event.path.split('/');
