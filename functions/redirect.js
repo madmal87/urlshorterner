@@ -133,6 +133,7 @@ exports.handler = async (event) => {
         'logturnitin': 'https://docs.google.com/spreadsheets/d/1K1FW36aV4eOAcGQ0dCXONJwVqSnk6JsiouSm8y7L0lI/edit?usp=sharing',
         'ptdispace': 'https://datastudio.google.com/reporting/f04b945c-a0f3-42c8-a637-c3ee3611f6b4',
         'mindarektor39': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
+        'mindarektor40': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
     };
 
     const pathParts = event.path.split('/');
