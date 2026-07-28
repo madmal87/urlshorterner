@@ -134,6 +134,7 @@ exports.handler = async (event) => {
         'ptdispace': 'https://datastudio.google.com/reporting/f04b945c-a0f3-42c8-a637-c3ee3611f6b4',
         'mindarektor39': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
         'mindarektor40': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
+        'rondaanptdi': 'https://docs.google.com/spreadsheets/d/1s7F3J2E6kdmH6F1mrUR3f_cChObmnGyxGSf2_RGffn8/edit?usp=sharing',
     };
 
     const pathParts = event.path.split('/');
