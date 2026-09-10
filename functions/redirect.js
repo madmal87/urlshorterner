@@ -136,6 +136,7 @@ exports.handler = async (event) => {
         'mindarektor40': 'https://library.uitm.edu.my/publication/minda-rektor-johor/profesor-madya-dr-saunah-binti-zainon',
         'rondaanptdi': 'https://docs.google.com/spreadsheets/d/1s7F3J2E6kdmH6F1mrUR3f_cChObmnGyxGSf2_RGffn8/edit?usp=sharing',
         'ubataqil': 'https://forms.gle/nL3YSkec3ezUoKs39',
+        'pmmds92026': 'https://mykm.uitm.edu.my/attendance/ptar.php?id=7031&code=971f52f5c3705bf',
     };
 
     const pathParts = event.path.split('/');
