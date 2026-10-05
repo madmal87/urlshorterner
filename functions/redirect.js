@@ -140,6 +140,7 @@ exports.handler = async (event) => {
         'tazkirahsantai': 'https://www.facebook.com/share/p/19kM82hMCf/',
         'webtazkirahsantai': 'https://library.uitm.edu.my/news/translating-the-essence-of-independence-through-knowledge-discourse-ptdi',
         'silveraward': 'https://www.facebook.com/share/p/1DuhquhGVv/',
+        'websilveraward': 'https://library.uitm.edu.my/news/from-segamat-pasir-gudang-to-the-national-stage-ptdi-wins-silver-award-at-the-2026-library-innovation-competition',
     };
 
     const pathParts = event.path.split('/');
