@@ -144,6 +144,7 @@ exports.handler = async (event) => {
         'telaah': 'https://www.facebook.com/share/p/18Vn3An4RM/',
         'webtelaah': 'https://library.uitm.edu.my/news/unveiling-segamats-heritage-and-ancient-myths-ptdi-hosts-special-discourse',
         'patriotik': 'https://www.facebook.com/share/p/1EHqRCmEbo/',
+        'webpatriotik': 'https://library.uitm.edu.my/news/echoes-of-patriotism-ptdi-segamat-hosts-2026-patriotic-song-competition-to-strengthen-campus-unity',
     };
 
     const pathParts = event.path.split('/');
