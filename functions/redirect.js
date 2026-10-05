@@ -142,6 +142,7 @@ exports.handler = async (event) => {
         'silveraward': 'https://www.facebook.com/share/p/1DuhquhGVv/',
         'websilveraward': 'https://library.uitm.edu.my/news/from-segamat-pasir-gudang-to-the-national-stage-ptdi-wins-silver-award-at-the-2026-library-innovation-competition',
         'telaah': 'https://www.facebook.com/share/p/18Vn3An4RM/',
+        'webtelaah': 'https://library.uitm.edu.my/news/unveiling-segamats-heritage-and-ancient-myths-ptdi-hosts-special-discourse',
     };
 
     const pathParts = event.path.split('/');
