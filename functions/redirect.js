@@ -139,6 +139,7 @@ exports.handler = async (event) => {
         'pmmds92026': 'https://mykm.uitm.edu.my/attendance/ptar.php?id=7031&code=971f52f5c3705bf',
         'tazkirahsantai': 'https://www.facebook.com/share/p/19kM82hMCf/',
         'webtazkirahsantai': 'https://library.uitm.edu.my/news/translating-the-essence-of-independence-through-knowledge-discourse-ptdi',
+        'silveraward': 'https://www.facebook.com/share/p/1DuhquhGVv/',
     };
 
     const pathParts = event.path.split('/');
