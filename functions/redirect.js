@@ -147,6 +147,7 @@ exports.handler = async (event) => {
         'webpatriotik': 'https://library.uitm.edu.my/news/echoes-of-patriotism-ptdi-segamat-hosts-2026-patriotic-song-competition-to-strengthen-campus-unity',
         'mds': 'https://www.facebook.com/ptdijohor/posts/pfbid02c9vg7UMxbk5pYURBJEB9vTQwBpys9VdKWE4CkjFzstAoC3j93a9kxchhYgQiebCPl',
         'webmds': 'https://library.uitm.edu.my/news/pinnacle-of-excellence-ptdi-uitm-johor-attains-highest-score-in-march-2026-student-orientation-sessions',
+        'mbb': 'https://www.facebook.com/share/p/1CCENVN9Qx/',
     };
 
     const pathParts = event.path.split('/');
