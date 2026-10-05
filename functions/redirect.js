@@ -145,6 +145,7 @@ exports.handler = async (event) => {
         'webtelaah': 'https://library.uitm.edu.my/news/unveiling-segamats-heritage-and-ancient-myths-ptdi-hosts-special-discourse',
         'patriotik': 'https://www.facebook.com/share/p/1EHqRCmEbo/',
         'webpatriotik': 'https://library.uitm.edu.my/news/echoes-of-patriotism-ptdi-segamat-hosts-2026-patriotic-song-competition-to-strengthen-campus-unity',
+        'mds': 'https://www.facebook.com/ptdijohor/posts/pfbid02c9vg7UMxbk5pYURBJEB9vTQwBpys9VdKWE4CkjFzstAoC3j93a9kxchhYgQiebCPl',
     };
 
     const pathParts = event.path.split('/');
