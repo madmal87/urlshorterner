@@ -153,6 +153,7 @@ exports.handler = async (event) => {
         'webconvent': 'https://library.uitm.edu.my/news/nurturing-future-leaders-ptdi-hosts-student-leadership-course-at-smk-canossian-convent',
         'rektor': 'https://www.facebook.com/share/p/1C1JQhASrF/',
         'webrektor': 'https://library.uitm.edu.my/news/empowering-campus-welfare-uitm-johor-rector-conducts-monitoring-visit-to-ptdi-2',
+        'eksa': 'https://www.facebook.com/share/p/1921MamECn/',
     };
 
     const pathParts = event.path.split('/');
