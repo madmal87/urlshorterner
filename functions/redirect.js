@@ -149,6 +149,7 @@ exports.handler = async (event) => {
         'webmds': 'https://library.uitm.edu.my/news/pinnacle-of-excellence-ptdi-uitm-johor-attains-highest-score-in-march-2026-student-orientation-sessions',
         'mbb': 'https://www.facebook.com/share/p/1CCENVN9Qx/',
         'webmbb': 'https://library.uitm.edu.my/news/cultivating-knowledge-maybank-delegation-pays-strategic-courtesy-visit-to-ptdi-uitm-johor',
+        'convent': 'https://www.facebook.com/share/p/1LdizYK8CQ/',
     };
 
     const pathParts = event.path.split('/');
