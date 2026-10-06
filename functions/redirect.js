@@ -151,6 +151,7 @@ exports.handler = async (event) => {
         'webmbb': 'https://library.uitm.edu.my/news/cultivating-knowledge-maybank-delegation-pays-strategic-courtesy-visit-to-ptdi-uitm-johor',
         'convent': 'https://www.facebook.com/share/p/1LdizYK8CQ/',
         'webconvent': 'https://library.uitm.edu.my/news/nurturing-future-leaders-ptdi-hosts-student-leadership-course-at-smk-canossian-convent',
+        'rektor': 'https://www.facebook.com/share/p/1C1JQhASrF/',
     };
 
     const pathParts = event.path.split('/');
