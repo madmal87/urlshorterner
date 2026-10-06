@@ -158,6 +158,7 @@ exports.handler = async (event) => {
         'kikmds': 'https://www.facebook.com/share/p/19d9Zuu3S5/',
         'webkikmds': 'https://library.uitm.edu.my/news/driving-innovation-ptdi-hosts-benchmarking-visit-by-segamat-municipal-councils-kik-pustaka-group',
         'galeri': 'https://www.facebook.com/share/p/1Fw5xfb8yE/',
+        'webgaleri': 'https://library.uitm.edu.my/news/a-new-look-for-level-1-ptdi-prepares-dedicated-gallery-spaces-to-elevate-visitor-experience',
     };
 
     const pathParts = event.path.split('/');
