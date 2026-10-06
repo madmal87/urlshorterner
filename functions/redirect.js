@@ -157,6 +157,7 @@ exports.handler = async (event) => {
         'webeksa': 'https://library.uitm.edu.my/news/charting-excellence-eksa-knowledge-sharing-session-between-ptdi-and-segamat-municipal-council',
         'kikmds': 'https://www.facebook.com/share/p/19d9Zuu3S5/',
         'webkikmds': 'https://library.uitm.edu.my/news/driving-innovation-ptdi-hosts-benchmarking-visit-by-segamat-municipal-councils-kik-pustaka-group',
+        'galeri': 'https://www.facebook.com/share/p/1Fw5xfb8yE/',
     };
 
     const pathParts = event.path.split('/');
