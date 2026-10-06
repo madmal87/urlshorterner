@@ -160,6 +160,7 @@ exports.handler = async (event) => {
         'galeri': 'https://www.facebook.com/share/p/1Fw5xfb8yE/',
         'webgaleri': 'https://library.uitm.edu.my/news/a-new-look-for-level-1-ptdi-prepares-dedicated-gallery-spaces-to-elevate-visitor-experience',
         'merdeka': 'https://www.facebook.com/share/p/19pVueeYGc/',
+        'webmerdeka': 'https://library.uitm.edu.my/news/ptdi-1-staff-unite-for-independence-month-preparations',
     };
 
     const pathParts = event.path.split('/');
