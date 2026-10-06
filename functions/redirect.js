@@ -154,6 +154,7 @@ exports.handler = async (event) => {
         'rektor': 'https://www.facebook.com/share/p/1C1JQhASrF/',
         'webrektor': 'https://library.uitm.edu.my/news/empowering-campus-welfare-uitm-johor-rector-conducts-monitoring-visit-to-ptdi-2',
         'eksa': 'https://www.facebook.com/share/p/1921MamECn/',
+        'webeksa': 'https://library.uitm.edu.my/news/charting-excellence-eksa-knowledge-sharing-session-between-ptdi-and-segamat-municipal-council',
     };
 
     const pathParts = event.path.split('/');
