@@ -161,6 +161,7 @@ exports.handler = async (event) => {
         'webgaleri': 'https://library.uitm.edu.my/news/a-new-look-for-level-1-ptdi-prepares-dedicated-gallery-spaces-to-elevate-visitor-experience',
         'merdeka': 'https://www.facebook.com/share/p/19pVueeYGc/',
         'webmerdeka': 'https://library.uitm.edu.my/news/ptdi-1-staff-unite-for-independence-month-preparations',
+        'prom': 'https://docs.google.com/document/d/1MlMSHwG8RlWR3Z4uJoITCwnZ1CB3yPZ0jzJC9enUOp4/edit?usp=sharing',
     };
 
     const pathParts = event.path.split('/');
