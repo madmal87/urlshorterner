@@ -162,6 +162,7 @@ exports.handler = async (event) => {
         'merdeka': 'https://www.facebook.com/share/p/19pVueeYGc/',
         'webmerdeka': 'https://library.uitm.edu.my/news/ptdi-1-staff-unite-for-independence-month-preparations',
         'prom': 'https://docs.google.com/document/d/1MlMSHwG8RlWR3Z4uJoITCwnZ1CB3yPZ0jzJC9enUOp4/edit?usp=sharing',
+        'muar': 'https://drive.google.com/drive/u/1/folders/1sv5ntNIQpT9PKY5TtaG6VaEeo9srxmiV',
     };
 
     const pathParts = event.path.split('/');
