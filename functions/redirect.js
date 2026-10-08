@@ -163,20 +163,19 @@ exports.handler = async (event) => {
         'webmerdeka': 'https://library.uitm.edu.my/news/ptdi-1-staff-unite-for-independence-month-preparations',
         'prom': 'https://docs.google.com/document/d/1MlMSHwG8RlWR3Z4uJoITCwnZ1CB3yPZ0jzJC9enUOp4/edit?usp=sharing',
         'muar': 'https://drive.google.com/drive/u/1/folders/1sv5ntNIQpT9PKY5TtaG6VaEeo9srxmiV',
+        'link': 'https://script.google.com/a/macros/uitm.edu.my/s/AKfycbwasRF1snTu4xnxBpeUFiUcN5_RyqFgTDTsDT0fYy38grpwxcMqdDN6RqnVCuOx9kumJw/exec',
     };
 
     const pathParts = event.path.split('/');
-    const shortLinkId = pathParts[pathParts.length - 1]; // Get the ID from the URL
+    const shortLinkId = pathParts[pathParts.length - 1]; 
     const longUrl = urlMap[shortLinkId];
 
     if (longUrl) {
-        // Google Analytics tracking script
         const trackingScript = `
         <!DOCTYPE html>
         <html>
         <head>
             <title>Redirecting...</title>
-            <!-- Google tag (gtag.js) -->
             <script async src="https://www.googletagmanager.com/gtag/js?id=G-F2S40LE8QT"></script>
             <script>
                 window.dataLayer = window.dataLayer || [];
@@ -189,7 +188,6 @@ exports.handler = async (event) => {
                     'link_destination': '${longUrl}'
                 });
                 
-                // Redirect after a short delay to ensure tracking
                 setTimeout(() => {
                     window.location.href = '${longUrl}';
                 }, 100);
@@ -201,17 +199,8 @@ exports.handler = async (event) => {
         </html>
         `;
 
-        return {
-            statusCode: 200,
-            headers: {
-                'Content-Type': 'text/html',
-            },
-            body: trackingScript
-        };
+        return { statusCode: 200, headers: { 'Content-Type': 'text/html' }, body: trackingScript };
     } else {
-        return {
-            statusCode: 404,
-            body: 'URL not found.',
-        };
+        return { statusCode: 404, body: 'URL not found.' };
     }
 };
