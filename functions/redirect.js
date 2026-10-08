@@ -165,6 +165,7 @@ exports.handler = async (event) => {
         'muar': 'https://drive.google.com/drive/u/1/folders/1sv5ntNIQpT9PKY5TtaG6VaEeo9srxmiV',
         'link': 'https://script.google.com/a/macros/uitm.edu.my/s/AKfycbwasRF1snTu4xnxBpeUFiUcN5_RyqFgTDTsDT0fYy38grpwxcMqdDN6RqnVCuOx9kumJw/exec',
         'laporankkm26': 'https://www.facebook.com/share/p/1EdRoqgMDW/',
+        'kkmsekolaharab': 'https://www.facebook.com/share/p/1JhxLoUYwi/',
     };
 
     const pathParts = event.path.split('/');
