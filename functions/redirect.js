@@ -168,6 +168,7 @@ exports.handler = async (event) => {
         'kkmsekolaharab': 'https://www.facebook.com/share/p/1JhxLoUYwi/',
         'eksmuar': 'https://www.facebook.com/share/p/1C6pHhNWb6/',
         'webeksmuar': 'https://library.uitm.edu.my/news/digital-echoes-pss-empowerment-ptdi-knowledge-exploration-program-with-the-community',
+        'hack': 'https://script.google.com/macros/s/AKfycbzAT1HnugXC9uqM0DUgemY20ryQpMNFZQjhNuDsa9qQDT6uxTPOxpw8Z0SLmygn3zuI/exec',
     };
 
     const pathParts = event.path.split('/');
