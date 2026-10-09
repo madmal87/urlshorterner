@@ -167,6 +167,7 @@ exports.handler = async (event) => {
         'laporankkm26': 'https://www.facebook.com/share/p/1EdRoqgMDW/',
         'kkmsekolaharab': 'https://www.facebook.com/share/p/1JhxLoUYwi/',
         'eksmuar': 'https://www.facebook.com/share/p/1C6pHhNWb6/',
+        'webeksmuar': 'https://library.uitm.edu.my/news/digital-echoes-pss-empowerment-ptdi-knowledge-exploration-program-with-the-community',
     };
 
     const pathParts = event.path.split('/');
