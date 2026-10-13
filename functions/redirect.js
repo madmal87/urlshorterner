@@ -172,6 +172,7 @@ exports.handler = async (event) => {
         'apt': 'https://www.facebook.com/share/p/1CEwK94doZ/',
         'webapt': 'https://library.uitm.edu.my/news/ptdi-makes-history-clinches-prestigious-best-library-award-2026',
         'meksa': 'https://www.facebook.com/share/p/19opTHXrQy/',
+        'webmeksa': 'https://library.uitm.edu.my/news/empowering-a-conducive-work-culture-tun-dr-ismail-library-holds-eksa-discussion-session',
     };
 
     const pathParts = event.path.split('/');
