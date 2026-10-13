@@ -171,6 +171,7 @@ exports.handler = async (event) => {
         'hack': 'https://script.google.com/macros/s/AKfycbzAT1HnugXC9uqM0DUgemY20ryQpMNFZQjhNuDsa9qQDT6uxTPOxpw8Z0SLmygn3zuI/exec',
         'apt': 'https://www.facebook.com/share/p/1CEwK94doZ/',
         'webapt': 'https://library.uitm.edu.my/news/ptdi-makes-history-clinches-prestigious-best-library-award-2026',
+        'meksa': 'https://www.facebook.com/share/p/19opTHXrQy/',
     };
 
     const pathParts = event.path.split('/');
