@@ -173,6 +173,7 @@ exports.handler = async (event) => {
         'webapt': 'https://library.uitm.edu.my/news/ptdi-makes-history-clinches-prestigious-best-library-award-2026',
         'meksa': 'https://www.facebook.com/share/p/19opTHXrQy/',
         'webmeksa': 'https://library.uitm.edu.my/news/empowering-a-conducive-work-culture-tun-dr-ismail-library-holds-eksa-discussion-session',
+        'jport': 'https://www.facebook.com/share/p/1FJBJ8V8Uq/',
     };
 
     const pathParts = event.path.split('/');
