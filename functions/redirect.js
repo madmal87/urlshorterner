@@ -174,6 +174,7 @@ exports.handler = async (event) => {
         'meksa': 'https://www.facebook.com/share/p/19opTHXrQy/',
         'webmeksa': 'https://library.uitm.edu.my/news/empowering-a-conducive-work-culture-tun-dr-ismail-library-holds-eksa-discussion-session',
         'jport': 'https://www.facebook.com/share/p/1FJBJ8V8Uq/',
+        'webjport': 'https://library.uitm.edu.my/news/corporate-academic-synergy-courtesy-visit-by-johor-port-berhad-highlights-tun-dr-ismail-library',
     };
 
     const pathParts = event.path.split('/');
