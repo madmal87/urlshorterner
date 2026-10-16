@@ -177,6 +177,7 @@ exports.handler = async (event) => {
         'webjport': 'https://library.uitm.edu.my/news/corporate-academic-synergy-courtesy-visit-by-johor-port-berhad-highlights-tun-dr-ismail-library',
         'permata': 'https://docs.google.com/forms/d/e/1FAIpQLSfRQvwdQFL0aQe17aYss1ugNNuY2GSsRFjqGjbt375rI5NhqA/viewform',
         'ir': 'https://ir.uitm.edu.my/',
+        'tiktokptdi': 'https://www.tiktok.com/@ptdijohor?lang=en',
     };
 
     const pathParts = event.path.split('/');
