@@ -178,6 +178,8 @@ exports.handler = async (event) => {
         'permata': 'https://docs.google.com/forms/d/e/1FAIpQLSfRQvwdQFL0aQe17aYss1ugNNuY2GSsRFjqGjbt375rI5NhqA/viewform',
         'ir': 'https://ir.uitm.edu.my/',
         'tiktokptdi': 'https://www.tiktok.com/@ptdijohor?lang=en',
+        'emaklum': 'https://docs.google.com/forms/d/e/1FAIpQLSdFfQ3eMomGumXEYDl15GJmL95EmriGI8PJH54KUqYCPOnw7g/viewform',
+        'emaklumptdi': 'https://docs.google.com/forms/d/e/1FAIpQLSdFfQ3eMomGumXEYDl15GJmL95EmriGI8PJH54KUqYCPOnw7g/viewform',
     };
 
     const pathParts = event.path.split('/');
