@@ -182,6 +182,7 @@ exports.handler = async (event) => {
         'emaklumptdi': 'https://docs.google.com/forms/d/e/1FAIpQLSdFfQ3eMomGumXEYDl15GJmL95EmriGI8PJH54KUqYCPOnw7g/viewform',
         'openday': 'https://www.facebook.com/share/p/17gjAJtV8Z/',
         'webopenday': 'https://library.uitm.edu.my/news/semarak-mesra-uitm-johor-branch-segamat-campus-hosts-customer-appreciation-day-2026-at-ptdi-1',
+        'kpdn': 'https://www.facebook.com/share/p/1Bpp9ZD1VR/',
     };
 
     const pathParts = event.path.split('/');
