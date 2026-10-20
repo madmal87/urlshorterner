@@ -183,6 +183,7 @@ exports.handler = async (event) => {
         'openday': 'https://www.facebook.com/share/p/17gjAJtV8Z/',
         'webopenday': 'https://library.uitm.edu.my/news/semarak-mesra-uitm-johor-branch-segamat-campus-hosts-customer-appreciation-day-2026-at-ptdi-1',
         'kpdn': 'https://www.facebook.com/share/p/1Bpp9ZD1VR/',
+        'webkpdn': 'https://library.uitm.edu.my/news/caring-student-initiative-launch-of-ihsan-food-bank-ifb-consumer-advocacy-at-ptdi',
     };
 
     const pathParts = event.path.split('/');
