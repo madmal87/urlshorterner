@@ -180,6 +180,7 @@ exports.handler = async (event) => {
         'tiktokptdi': 'https://www.tiktok.com/@ptdijohor?lang=en',
         'emaklum': 'https://docs.google.com/forms/d/e/1FAIpQLSdFfQ3eMomGumXEYDl15GJmL95EmriGI8PJH54KUqYCPOnw7g/viewform',
         'emaklumptdi': 'https://docs.google.com/forms/d/e/1FAIpQLSdFfQ3eMomGumXEYDl15GJmL95EmriGI8PJH54KUqYCPOnw7g/viewform',
+        'openday': 'https://www.facebook.com/share/p/17gjAJtV8Z/',
     };
 
     const pathParts = event.path.split('/');
