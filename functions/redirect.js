@@ -185,6 +185,7 @@ exports.handler = async (event) => {
         'kpdn': 'https://www.facebook.com/share/p/1Bpp9ZD1VR/',
         'webkpdn': 'https://library.uitm.edu.my/news/caring-student-initiative-launch-of-ihsan-food-bank-ifb-consumer-advocacy-at-ptdi',
         'auditupp2026': 'https://docs.google.com/presentation/d/1HxUiivkhHMCAtyQH8vHZZVHyIjpR7r2K/edit?usp=sharing&ouid=102746423464810943993&rtpof=true&sd=true',
+        'mlv22026': 'https://mykm.uitm.edu.my/attendance/ptar.php?id=7075&code=bb1047d0ff7',
     };
 
     const pathParts = event.path.split('/');
