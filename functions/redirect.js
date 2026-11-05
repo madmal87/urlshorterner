@@ -188,6 +188,8 @@ exports.handler = async (event) => {
         'mlv22026': 'https://mykm.uitm.edu.my/attendance/ptar.php?id=7075&code=bb1047d0ff7',
         'pcptdi': 'https://docs.google.com/forms/d/e/1FAIpQLScr4_Wa_6aGeTYmEgy4E_JNq9u5Tiuef02qeGbFIntPhzxjRA/viewform?usp=dialog',
         'esijilkkm': 'https://docs.google.com/forms/d/e/1FAIpQLSfx63csz68zuixpLoOnISppMQ8SPeNJRNEyWi-4j1xPnj1Twg/viewform?usp=publish-editor',
+        'lsegworkspace': 'http://meet.google.com/dbx-urgy-gki',
+        'live': 'https://script.google.com/a/macros/uitm.edu.my/s/AKfycbzvjyLSBRFDTSvnFL_OY-06AGh3XFjoZ7-5DJTXJrlTPaO-G731aDjZfJM5nNiH9m_ISw/exec',
     };
 
     const pathParts = event.path.split('/');
