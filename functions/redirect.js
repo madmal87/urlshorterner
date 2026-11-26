@@ -190,6 +190,7 @@ exports.handler = async (event) => {
         'esijilkkm': 'https://docs.google.com/forms/d/e/1FAIpQLSfx63csz68zuixpLoOnISppMQ8SPeNJRNEyWi-4j1xPnj1Twg/viewform?usp=publish-editor',
         'lsegworkspace': 'http://meet.google.com/dbx-urgy-gki',
         'live': 'https://script.google.com/a/macros/uitm.edu.my/s/AKfycbzvjyLSBRFDTSvnFL_OY-06AGh3XFjoZ7-5DJTXJrlTPaO-G731aDjZfJM5nNiH9m_ISw/exec',
+        'jementah': 'https://l.facebook.com/l.php?u=https%3A%2F%2Fsegamat.com.my%2Fsejarah-jementah%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgFicmlkETF0MU9NdjVJV0hEYUdNVnJLc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABH5tj_-3gZKD1yR6_5JWRbDHud9fy8iIvF0qxJM45Zcjm-fn7bFXkUiocTzs__aem_9NkTtySkuSO-VXe17agw8w&h=AUCbcfAxCZ9zwoLmsWE-JD9FkurfSz9JYx-NKF0svjp4W5nkVmOVPQq38UsWejReECegzNHYJ_l-YZvxGsfPCArqHouV3wEg4452E3lET7YeFQtMxTP6QOAxUNxwSALe38X8aEMHTQz1TCWx&__tn__=R]-R&c[0]=AUA4Dj2CEOq0b1lcH5WTLt7azm8OY5TIRpwp29h8x3Gu_-gVspSU9-tqrLOYTWole5-r2WV3V-zP4iRXGgp2n2o4OIeEUawNLFhpmXJPcdBqFNPqhHpXS-xAWoZlxaLom3vMV9wHQsERRRu7Ul-yAC3j3OwE7fO91Y7m8EOTbw&c[1]=AUA4Dj2CEOq0b1lcH5WTLt7azm8OY5TIRpwp29h8x3Gu_-gVspSU9-tqrLOYTWole5-r2WV3V-zP4iRXGgp2n2o4OIeEUawNLFhpmXJPcdBqFNPqhHpXS-xAWoZlxaLom3vMV9wHQsERRRu7Ul-yAC3j3OwE7fO91Y7m8EOTbw',
     };
 
     const pathParts = event.path.split('/');
